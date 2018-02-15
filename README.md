@@ -1,4 +1,6 @@
 # images
-Images to host pictures and diagrams
+**Humans, please ignore this repo.**
 
-This repo is for machines/programs. Not for humans. Please ignore this one.
+It's for machines/programs only.
+
+Host pictures for my blog posts and other GitHub repos.
